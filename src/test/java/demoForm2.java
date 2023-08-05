@@ -69,6 +69,3 @@ public class demoForm2 {
         $(byText("NCR Delhi")).shouldHave(text("NCR Delhi"));
     }
 }
-
-
-}
